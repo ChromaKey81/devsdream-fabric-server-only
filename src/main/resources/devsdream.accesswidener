@@ -1,0 +1,5 @@
+accessWidener v1 named
+extendable method net/minecraft/recipe/ShapedRecipe readSymbols (Lcom/google/gson/JsonObject;)Ljava/util/Map;
+extendable method net/minecraft/recipe/ShapedRecipe removePadding (Ljava/lang/String...;)L[java/lang/String;
+extendable method net/minecraft/recipe/ShapedRecipe getPattern (Lcom/google/gson/JsonArray;)L[java/lang/String;
+extendable method net/minecraft/recipe/ShapedRecipe createPatternMatrix(Ljava/lang/String;Ljava/util/Map;I;I;)Lnet/minecraft/util/collection/DefaultedList;
